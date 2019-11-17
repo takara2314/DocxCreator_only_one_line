@@ -1,0 +1,13 @@
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.exe
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\obj\Debug\netcoreapp3.0\DocxCreator_only_one_line.AssemblyInfoInputs.cache
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\obj\Debug\netcoreapp3.0\DocxCreator_only_one_line.AssemblyInfo.cs
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.deps.json
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.runtimeconfig.json
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.runtimeconfig.dev.json
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.dll
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocxCreator_only_one_line.pdb
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\DocumentFormat.OpenXml.dll
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\obj\Debug\netcoreapp3.0\DocxCreator_only_one_line.csproj.CopyComplete
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\obj\Debug\netcoreapp3.0\DocxCreator_only_one_line.dll
+C:\Users\TK\source\repos\DocxCreator_only_one_line\DocxCreator_only_one_line\obj\Debug\netcoreapp3.0\DocxCreator_only_one_line.pdb
