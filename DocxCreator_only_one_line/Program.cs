@@ -7,8 +7,8 @@ namespace DocxCreator_only_one_line {
 	class Program {
 		static void Main(string[] args) {
 			// インスタンス化して非staticメソッドを参照
-			Program progra = new Program();
-			progra.DocxCreate(@"テスト文章.docx");
+			Program program = new Program();
+			program.DocxCreate(@"テスト文章.docx");
 		}
 
 		void DocxCreate(string filepath) {
